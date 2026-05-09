@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.neuroos.morningbrief</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/zsh</string>
+        <string>__JO_ROOT__/bin/morning-brief.sh</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>__JO_ROOT__</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>JO_ROOT</key>
+        <string>__JO_ROOT__</string>
+        <key>RECIPIENT</key>
+        <string>__RECIPIENT__</string>
+        <key>HOME</key>
+        <string>__HOME__</string>
+    </dict>
+
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>6</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <key>StandardOutPath</key>
+    <string>__JO_ROOT__/logs/launchd-stdout.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>__JO_ROOT__/logs/launchd-stderr.log</string>
+
+    <key>RunAtLoad</key>
+    <false/>
+
+    <key>ProcessType</key>
+    <string>Background</string>
+</dict>
+</plist>
