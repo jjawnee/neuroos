@@ -109,6 +109,6 @@ The Pro kit ships under a separate license (single-user, redistribution prohibit
 
 ---
 
-**Questions?** [@jjawnee on X](https://x.com/jjawnee).
+
 **Bug?** Open an issue on this repo.
 **Want the full kit?** [Gumroad](https://jjawnee.gumroad.com/l/ooxzqp) → $29.
