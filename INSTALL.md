@@ -99,7 +99,7 @@ launchctl load   ~/Library/LaunchAgents/com.neuroos.morningbrief.plist
 
 ## Want more?
 
-The free kernel runs forever. If you want time-keyed nudges (midday, evening, bedtime, weekly review), the modular brief engine, and the PBP doctrine — that's [NeuroOS Pro on Gumroad](https://jjawnee.gumroad.com/l/ooxzqp).
+The free kernel runs forever. If you want time-keyed nudges (midday, evening, bedtime, weekly review), the modular brief engine, and the PBP doctrine — that's [NeuroOS Pro on Gumroad](https://jjawnee.gumroad.com/l/neuroos).
 
 ## Uninstall
 

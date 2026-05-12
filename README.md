@@ -59,7 +59,7 @@ The free kernel proves the pattern works. **Pro is the full kit:**
 | **Cowork-stager** | 10:00 PM | Pre-stages tomorrow's brief data so 6 AM is instant |
 | **PBP doctrine** | (Day 3 drop) | The Prefrontal Bypass Protocol — the 4-layer methodology behind the system |
 
-→ **[Buy NeuroOS Pro on Gumroad](https://jjawnee.gumroad.com/l/ooxzqp)** — $29 one-time, lifetime updates.
+→ **[Buy NeuroOS Pro on Gumroad](https://jjawnee.gumroad.com/l/neuroos)** — $29 one-time, lifetime updates.
 
 ---
 
@@ -111,4 +111,4 @@ The Pro kit ships under a separate license (single-user, redistribution prohibit
 
 
 **Bug?** Open an issue on this repo.
-**Want the full kit?** [Gumroad](https://jjawnee.gumroad.com/l/ooxzqp) → $29.
+**Want the full kit?** [Gumroad](https://jjawnee.gumroad.com/l/neuroos) → $29.
